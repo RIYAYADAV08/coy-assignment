@@ -17,7 +17,8 @@
 
 ## 2. A gentle "say hi" nudge after a match
 
-**What:** When a mutual match happens, offer 2 or 3 tap-to-send openers (for example "Okay, this is awkward 🙈 hi") and send one reminder after about 24 hours if neither person has written.
+**What:** When a mutual match happens, offer 2 or 3 tap-to-send openers (for example "Okay, this is awkward <img width="1227" height="986" alt="image" src="https://github.com/user-attachments/assets/b5a68aa9-54ae-487f-a9b7-6d9bf26a453b" />
+ hi") and send one reminder after about 24 hours if neither person has written.
 
 **Why it's needed:**
 - A mutual reveal is a nervous moment. Both people already know the other likes them, and still nobody wants to go first. That can leave matches with no conversation.
